@@ -176,7 +176,6 @@ public class TooltipOverlayHandler
 			return Math.max(hungerBarLength, saturationBarLength);
 		}
 
-		@Override
 		public void drawItems(TextRenderer textRenderer, int x, int y, MatrixStack matrices, ItemRenderer itemRenderer, int z, TextureManager textureManager)
 		{
 			if (TooltipOverlayHandler.INSTANCE != null)

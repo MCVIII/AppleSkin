@@ -10,8 +10,7 @@
     "InGameHudMixin",
     "MinecraftClientMixin",
     "ItemStackMixin",
-    "ScreenMixin",
-    "REITooltipMixin"
+    "ScreenMixin"
   ],
   "injectors": {
     "defaultRequire": 1,
